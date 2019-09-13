@@ -94,5 +94,5 @@ Thinkpad Yoga 12 M.2 WIFI port is E keyed, so it's compatible with both A+E and 
 - USBPorts.kext (on my EFI Folder)
 - EFICheckDisabler.kext (on my EFI Folder)
 
-## 3. Patched
+### 3. Patched
 - Copy S240.aml to /ACPI/patched/
