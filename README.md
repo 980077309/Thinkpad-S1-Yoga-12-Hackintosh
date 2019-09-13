@@ -32,7 +32,7 @@ So if you want to be able to replace the Wifi card with a MacOS compatible card,
 
 |Compenent|Reference|
 |---|---|
-|CPU|Intel Core i-5 5300U vPro|
+|CPU|Intel Core i5-5300U vPro|
 |RAM|DDR3L 8GB Bus 1600MHz|
 |GFX|Intel HD Graphics 5500|
 |Sound|Intel HD Audio (Conexant CX22752 Audio Driver)|
@@ -43,8 +43,6 @@ So if you want to be able to replace the Wifi card with a MacOS compatible card,
 |Sensor Hub|ST Sensor Hub: gyroscope, Accelerometer, rotation detection, luminosity detection..|
 |SD Card reader|Realtek RTS5227 PCI Express Card Reader|
 |Camera|CON4B2E72 Integrated Camera (USB Internal port)|
-|Extension Port|Onelink Dock port for extension module [Onelink Pro Dock](https://support.lenovo.com/us/en/solutions/pd029981)|
-
 
 #### What will work:
 - CPU
